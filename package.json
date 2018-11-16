@@ -1,0 +1,31 @@
+{
+  "name": "bgg-sdk",
+  "version": "0.0.1",
+  "description": "BoardGameGeek Javascript SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilsonmsalberto/bgg-sdk.git"
+  },
+  "keywords": [
+    "bgg",
+    "boardgamegeek",
+    "boardgames",
+    "board",
+    "games"
+  ],
+  "author": "Wilson Alberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilsonmsalberto/bgg-sdk/issues"
+  },
+  "homepage": "https://github.com/wilsonmsalberto/bgg-sdk#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "proper-url-join": "^1.2.0",
+    "xml-js": "^1.6.8"
+  }
+}
