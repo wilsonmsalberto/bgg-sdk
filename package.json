@@ -26,6 +26,6 @@
   "dependencies": {
     "lodash": "^4.17.11",
     "proper-url-join": "^2.0.1",
-    "xml-js": "^1.6.8"
+    "xml-js": "^1.6.11"
   }
 }
