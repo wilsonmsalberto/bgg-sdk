@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/wilsonmsalberto/bgg-sdk#readme",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.20",
     "proper-url-join": "^2.1.1",
     "xml-js": "^1.6.11"
   }
